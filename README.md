@@ -8,6 +8,7 @@ Collection of basic algorithms written in c or java.
 * Merge sort  
 * Quick sort  
 * Permutations  
+* Amstrong number
 
 With regards,  
 _Shivaji Varma_
