@@ -1,7 +1,7 @@
 Code-base
 =========
 
-Collection of basic algorithms written in c or java.
+Collection of basic algorithms.
 
 * Insertion sort  
 * Selection sort  
