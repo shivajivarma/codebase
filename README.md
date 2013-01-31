@@ -9,6 +9,7 @@ Collection of basic algorithms written in c or java.
 * Quick sort  
 * Permutations  
 * Amstrong number
+* Towers of hanoi
 
 With regards,  
 _Shivaji Varma_
