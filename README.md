@@ -9,8 +9,8 @@ Hi everyone,
  Merge sort  
  Quick sort  
  Permutations  
- Amstrong number
- Towers of hanoi
+ Amstrong number  
+ Towers Of Hanoi
 
 With regards,  
 _Shivaji Varma_
