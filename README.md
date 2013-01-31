@@ -1,7 +1,8 @@
 Code-base
 =========
+Hi all,
 
-Collection of basic algorithms.
+		Some basic algorithms.
 
 * Insertion sort  
 * Selection sort  
