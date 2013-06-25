@@ -24,14 +24,14 @@ int main()
 {
    int arr[' '],arrSize,search;
     
-    printf("Enter size of the array :: ");
+    printf("Enter size of the array ::");
     scanf("%d",&arrSize);
     
-    printf("\nEnter elements into the array ::\n");
+    printf("\nEnter elements of the array ::\n");
     for(i=0;i<arrSize;i++)
        scanf("%d",&arr[i]);
  
-   printf("Enter the number to search\n");
+   printf("Enter the number to be searched ::\n");
    scanf("%d",&search);
  
    int c=linearSearch(arr,arrSize,search);
