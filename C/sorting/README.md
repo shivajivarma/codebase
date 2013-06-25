@@ -1,7 +1,7 @@
 >  Problem statement: To sort set of elements in an array.  
 
 Input:  
-N	- array size.  
+arrSize	- array size.  
 arr[ ] 	- array  
   
 Output: Sorted array.  
@@ -10,4 +10,4 @@ Output: Sorted array.
     Enter size of the array :: 8
     Enter elements into the array :: 5	7	6	3	10	2	4	1
     
-    Sorted array:: 1	2	3	4	5	6	7	10
+    Sorted array :: 1	2	3	4	5	6	7	10
