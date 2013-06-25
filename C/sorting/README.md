@@ -2,7 +2,7 @@
 
 Input:  
 arrSize	- array size.  
-arr[ ] 	- array  
+arr[ ] 	- array.
   
 Output: Sorted array.  
   
