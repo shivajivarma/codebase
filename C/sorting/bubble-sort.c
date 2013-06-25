@@ -28,7 +28,7 @@ int main()
     
     bubbleSort(&arr,arrSize);
          
-    printf("\nSorted array:: ");
+    printf("\nSorted array ::");
     for(i=0;i<arrSize;i++)
         printf(" %d",arr[i]);
         
