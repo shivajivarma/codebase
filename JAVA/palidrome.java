@@ -15,7 +15,7 @@ class palindrome{
  
  
  void palindrome(String str){
-  /* Alogorithm for checking whether the given string is palindrome or not*/
+  // Alogorithm for checking whether the given string is palindrome or not
   String reverse=new String();
   
     for(int i=str.length()-1;i>=0;i--){
@@ -25,7 +25,7 @@ class palindrome{
   
     if(str.equals(reverse)) System.out.println("Given string is a Palindrome");
     else System.out.println("Not a Palindrome");
-  /* End of the algorithm */
+  // End of the algorithm 
  }
  
  
