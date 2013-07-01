@@ -2,9 +2,9 @@
 
  A string is called palindrome if it symmetric. In other word a string is called palindrome if string remains same if its characters are reversed. 
  For example: asdsa
- If we will reverse it will remain same i.e. malayalam
+ If we will reverse it will remain same i.e. asdsa
 
-Example of string palindrome:  a,b, aa,aba,madam etc.
+Example of string palindrome:  a, b, aa, aba, madam, malayalam etc.
 
 */
 
