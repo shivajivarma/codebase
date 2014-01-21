@@ -1,8 +1,8 @@
 /*Sample function to set JSON Object as cookie*/
 function setJSONCookie(){
 cookie = {}
-cookie.firstname = "Shivaji";
-cookie.lastname = "Varma";
+cookie.firstname = "John";
+cookie.lastname = "Doe";
  createCookie('jsoncookie',JSON.stringify(cookie),1);
  alert("Cookie set");
 }
