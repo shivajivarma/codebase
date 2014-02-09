@@ -1,4 +1,4 @@
-/*Sample function to set JSON Object as cookie*/
+/* Sample function to set JSON Object as cookie */
 function setJSONCookie(){
 cookie = {}
 cookie.firstname = "John";
@@ -6,7 +6,7 @@ cookie.lastname = "Doe";
  createCookie('jsoncookie',JSON.stringify(cookie),1);
  alert("Cookie set");
 }
-/*Sample function to retrieve and reconstruct Object cookie*/
+/* Sample function to retrieve and reconstruct Object cookie */
 function getJSONCookie(){
     cookie = JSON.parse(readCookie('jsoncookie'));
     alert(JSON.stringify(cookie));
@@ -35,3 +35,8 @@ function readCookie(name) {
 function eraseCookie(name) {
     createCookie(name, "", -1);
 }
+
+/*
+With regards,
+Shivaji Varma
+*/
