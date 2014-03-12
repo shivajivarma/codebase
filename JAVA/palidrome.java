@@ -14,7 +14,7 @@ class palindrome{
  
  
  
- void palindrome(String str){
+ static void palindrome(String str){
   // Alogorithm for checking whether the given string is palindrome or not
   String reverse=new String();
   
