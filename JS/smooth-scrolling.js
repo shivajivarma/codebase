@@ -1,3 +1,5 @@
+/* Script for smooth scrolling to hash links within page */
+
 var $root = $('html, body');
 
 $('a').click(function() {
@@ -19,3 +21,8 @@ $('a').click(function() {
  
   return false;
 });
+
+/*
+With regards,
+Shivaji Varma
+*/
