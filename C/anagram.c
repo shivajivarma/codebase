@@ -9,15 +9,17 @@ int main() {
   
   if(strlen(a)==strlen(b))
   for(i=0;i<strlen(a);i++){
+      int flag=1;
       for(j=0;j<strlen(b);j++){
            if(a[i]==b[j]){
+            flag=0;
             memmove( &a[ 0 ] , &a[ 1 ], strlen( a ));
             i--;
             memmove( &b[ j ] , &b[ j + 1 ], strlen( b ) - j);
             break;
            }
         }
-        if(j == strlen(b) + 1){
+        if(flag == 1){
             anagram=0;
             break;
         }
