@@ -8,32 +8,34 @@ Example of string palindrome:  a, b, aa, aba, madam, malayalam etc.
 
 */
 
-import java.io.*;
- 
-class palindrome{
- 
- 
- 
- static void palindrome(String str){
-  // Alogorithm for checking whether the given string is palindrome or not
+import java.util.Scanner;
+
+class Common{
+  
+ public static boolean palindrome(String str){
+  // Algorithm for checking whether the given string is palindrome or not
   String reverse=new String();
   
     for(int i=str.length()-1;i>=0;i--){
-     System.out.println(reverse+"\n");
      reverse=reverse+str.charAt(i);
     }
   
-    if(str.equals(reverse)) System.out.println("Given string is a Palindrome");
-    else System.out.println("Not a Palindrome");
+    if(str.equals(reverse))
+    	return true;
+    else
+    	return false;
   // End of the algorithm 
  }
  
- 
  public static void main(String args[]){
-
-  String str=new String(args[0]);
-    palindrome(str);
-    
+	Scanner in= new Scanner(System.in);
+		System.out.print("Enter a string: ");	
+		String str=in.nextLine();
+			if (palindrome(str))
+				System.out.println("'"+str+"' is a Palindrome");
+			else
+				System.out.println("'"+str+"' is not a Palindrome");
+	in.close();	
  }
  
 }
