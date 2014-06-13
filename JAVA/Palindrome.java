@@ -10,7 +10,7 @@ Example of string palindrome:  a, b, aa, aba, madam, malayalam etc.
 
 import java.util.Scanner;
 
-class Common{
+class Palindrome{
   
  public static boolean palindrome(String str){
   // Algorithm for checking whether the given string is palindrome or not
