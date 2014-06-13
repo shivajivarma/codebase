@@ -8,7 +8,7 @@ Another example, 153. 1^3 + 5^3 + 3^3 = 3 + 15 + 9 = 153.
 
 import java.util.*;
 
-class Common {
+class Armstrong {
 	
 	public static boolean Armstrong(int number){
 		int  sum=0,temp,r;
