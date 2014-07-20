@@ -22,7 +22,7 @@ int linearSearch(int arr[],int arrSize,int search){
 
 int main()
 {
-   int arr[' '],arrSize,search;
+   int arr[' '],arrSize,search,i;
     
     printf("Enter size of the array ::");
     scanf("%d",&arrSize);
