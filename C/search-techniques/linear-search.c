@@ -1,8 +1,6 @@
 /*
-
 Linear search, also known as sequential search, 
 is a process that checks every element in the list sequentially until the desired element is found. 
-
 */
 #include <stdio.h>
 
