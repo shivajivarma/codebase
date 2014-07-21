@@ -1,5 +1,5 @@
 '''
-    Compute exact value of 1/(2^n) for T cases
+Compute exact value of 1/(2^n) for T cases
 '''
 def oneBy2PowerN(N):
     b = pow(5,N)
