@@ -2,6 +2,7 @@
 Linear search, also known as sequential search, 
 is a process that checks every element in the list sequentially until the desired element is found. 
 */
+
 #include <stdio.h>
 
 int linearSearch(int arr[],int arrSize,int search){
@@ -11,7 +12,7 @@ int linearSearch(int arr[],int arrSize,int search){
       if ( arr[c] == search )     /* if required element found */
       {
          return c;
-   break;
+         break;
       }
    }
    if ( c == arrSize )
