@@ -12,30 +12,27 @@ Binary Search is an O(log n) algorithm, which is more efficient than a linear se
 #include <stdio.h>
 
 int binarySearch(int arr[],int arrSize,int search){
-   
    int low = 0, high = arrSize-1,pos = -1;
     
-	while(low<=high){
-         int mid=(low+high)/2;
-         if(search==arr[mid]){
-             pos = mid;
-             break;
-         }
-         else if(search<arr[mid]){
-             high=mid-1;
-         }
-         else
-             low=mid+1;
+	while(low <= high){
+		int mid = (low+high)/2;
+		if(search == arr[mid]){
+			pos = mid;
+			break;
+		}else if(search < arr[mid]){
+			high = mid-1;
+		}else{
+			low = mid+1;
+		}
 	}
 	
 	if(pos != -1)
 		return pos;
-	else 
+	else
 		return -1;
 }
 
-int main()
-{
+int main(){
    int arr[' '],arrSize,search;
     
     printf("Enter size of the array ::");
