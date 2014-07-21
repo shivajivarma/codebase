@@ -5,7 +5,7 @@ Compute exact value of 1/(2^n) for T cases
 import java.util.Scanner;
 import java.math.BigInteger;
 
-class oneBy2PowerN{
+class OneBy2PowerN{
     public static void main(String args[]) {
 		 Scanner in = new Scanner(System.in);
 		 int T = in.nextInt(),len,num,i,j;
