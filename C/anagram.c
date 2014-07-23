@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
  
 int main() {
-
-    
-  char a[6]="aklbc",b[6]="bcakk";
-  int i,j,anagram=1;
+   
+  char a[6]="aklbc",b[6]="bcakl";
+  int i,j;
   
   if(strlen(a)==strlen(b))
   for(i=0;i<strlen(a);i++){
@@ -20,15 +20,16 @@ int main() {
            }
         }
         if(flag == 1){
-            anagram=0;
-            break;
+            printf("not an anagram");
+            return 0;
         }
   }
-  else anagram=0;
+  else{
+  	printf("not an anagram");
+  	return 0;
+  }
   
-  if(anagram == 1)
    printf("anagram");
-   else printf("not an anagram");
 
   return 0;
 }
