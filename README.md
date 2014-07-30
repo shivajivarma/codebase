@@ -1,6 +1,11 @@
-Code-base
+Code-Base
 =========
 Hi,
+
+'Code Base' is a repository of programs, using which you can analyze, hack and learn basic programs.
+
+You can contribute, by sending your program(eg: How to write palidrome program in c) to us through mail [codebase@shivajivarma.com] which will be include in our repository (under your name), or you can add you program and raise a pull request.
+
 
 		Here are the set of basic algorithms you can look out for, inside the repository.
 		
