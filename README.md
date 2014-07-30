@@ -10,6 +10,7 @@ Hi,
 4. Quick sort		[[C](C/sorting-techniques/quick-sort.c)]
 5. Bubble sort		[[C](C/sorting-techniques/bubble-sort.c)]
 6. Linear Search	[[C](C/search-techniques/linear-search.c)]
+7. Binary Search 	[[C](C/search-techniques/binary-search.c)]
 7. Permutations		[[C](C/permutations.c)]
 8. Subsets		[[C](C/subsets.c)]
 9. Amstrong Number	[[C](C/armstrong.c), [JAVA](JAVA/Armstrong.java)]
