@@ -7,7 +7,7 @@ Hi,
 You can contribute, by sending your program(eg: How to write palidrome program in c) to us through mail [codebase@shivajivarma.com] which will be include in our repository (under your name), or you can add you program and raise a pull request.
 
 
-		Here are the set of basic algorithms you can look out for, inside the repository.
+**List of available programs**
 		
 1. Insertion sort 	[[C](C/sorting-techniques/insertion-sort.c)]
 2. Selection sort	[[C](C/sorting-techniques/seletion-sort.c)]
