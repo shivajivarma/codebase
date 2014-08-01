@@ -10,17 +10,17 @@ NOTE: The following program computes gcd of two numbers.
 
 #include<stdio.h>
 
-  int gcd(int a,int b){  
-
+  int gcd(int a,int b)
+  {  
     int c=b%a;
     
     if(c==0) return a;
-    else return gcd(c,a);
+    return gcd(c,a);
   }
 
 
-int main(){
-  
+int main()
+{
     int x,y;
     
     printf("GCD of two numbers\nEnter x and y:: ");
