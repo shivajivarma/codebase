@@ -8,6 +8,7 @@ NOTE: The following program computes gcd of two numbers.
 
 #include<stdio.h>
 
+// returns GCD of a,b where a<b
 int gcd(int a,int b)
 {  
   int c=b%a;
