@@ -9,11 +9,11 @@ You can contribute, by sending your program(eg: How to write palidrome program i
 
 **List of available programs**
 		
-1. Insertion sort 	[[C](C/sorting-techniques/insertion-sort.c)]
-2. Selection sort	[[C](C/sorting-techniques/seletion-sort.c)]
-3. Merge sort		[[C](C/sorting-techniques/merge-sort.c)]
-4. Quick sort		[[C](C/sorting-techniques/quick-sort.c)]
-5. Bubble sort		[[C](C/sorting-techniques/bubble-sort.c)]
+1. Insertion sort 	[[C](C/sorting-algorithms/insertion-sort.c)]
+2. Selection sort	[[C](C/sorting-algorithms/seletion-sort.c)]
+3. Merge sort		[[C](C/sorting-algorithms/merge-sort.c)]
+4. Quick sort		[[C](C/sorting-algorithms/quick-sort.c)]
+5. Bubble sort		[[C](C/sorting-algorithms/bubble-sort.c)]
 6. Linear Search	[[C](C/searching-algorithms/linear-search.c)]
 7. Binary Search 	[[C](C/searching-algorithms/binary-search.c)]
 7. Permutations		[[C](C/permutations.c)]
