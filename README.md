@@ -24,6 +24,8 @@ You can contribute, by sending your program(eg: How to write palidrome program i
 12. Palindrome (String)	[[JAVA](JAVA/Palindrome.java)]
 13. Anagram [[C](C/anagram.c)]
 14. Random Number [[C](C/random-number.c)]
+15. Leap Year [[C](C/leap-year.c)]
+16. Reversing a String [[C](C/reverse-string.c)}
 
 With regards,  
 _Shivaji Varma_
