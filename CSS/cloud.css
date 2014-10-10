@@ -1,10 +1,16 @@
 /*
-<div id = "cloud"><span class='shadow'></span></div>
+<div id="cloud-background">
+  <div id = "cloud"><span class='shadow'></span></div>
+</div>
 */
 
-body {
-	background: #ccc;
+#cloud-background {
+	background-color: #ccc;
+	z-index: 0;
+	padding-top: 1px;
+	padding-bottom: 8px;
 }
+
 #cloud {
 	width: 350px; height: 120px;
 	
