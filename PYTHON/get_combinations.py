@@ -1,14 +1,3 @@
-''' 
-Problem:
-  Put a character in between a string as many times and as many combinations possible.
-
-input:
-  fun,$
-output:
-  f$un
-  fu$n
-  f$u$n
-'''
 def insert(str,ins,n):
 	for i in xrange(len(str)-n):
 		output = str
