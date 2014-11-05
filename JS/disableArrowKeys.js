@@ -1,3 +1,7 @@
+/*
+While implementing browser based games, 
+Arrow are used for game controlling so it's necessary to disable there default functionality(crawling the page).
+*/
 var keys = {};
 window.addEventListener("keydown",
     function(e){
