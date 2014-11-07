@@ -1,0 +1,147 @@
+<html>
+  <head>
+		<title>Responsive Table</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta charset="utf-8">
+		<style>
+		table{
+			background-color: #f9f9f9;
+			border-collapse: collapse;
+			color: black;
+			margin: 1em 0;
+			text-align: center;
+			width:100%;
+		}
+		table tr:nth-child(odd){ 
+			background-color: #faf5ff;
+		}
+
+		table tr th{
+			background-color: #E0CEF2; border-color: #B1A3BF
+		}
+		table tr th, table tr td{
+			border: 1px solid #aaa;
+		}
+		@media only screen and (max-width: 800px) {
+			/* Force table to not be like tables anymore */
+			#no-more-tables table,
+			#no-more-tables thead,
+			#no-more-tables tbody,
+			#no-more-tables th,
+			#no-more-tables td,
+			#no-more-tables tr {
+					display: block;
+			}
+			 
+			/* Hide table headers (but not display: none;, for accessibility)  */
+			#no-more-tables thead tr {
+				position: absolute;
+				top: -9999px;
+				left: -9999px;
+			}
+
+				
+			/* Behave like a "row" */
+			#no-more-tables td:not(:first-child) {
+				position: relative;
+				padding-left: 52%;
+				text-align: left;
+				border-collapse: collapse;
+				border-bottom: 0px;
+			}
+			
+			#no-more-tables td:first-child{
+				text-align: center;
+				border-collapse: collapse;
+				border-bottom: 0px;
+				background-color: blueviolet;
+				color:white;
+			}
+				
+			#no-more-tables td:last-child {
+				border: 1px solid #aaa;
+			}
+			
+			#no-more-tables tr{
+				margin-bottom: 10px;
+			}
+
+			/* Now like a table header */
+			#no-more-tables td:not(:first-child):before {
+				position: absolute;
+				left: 0;
+				top: 0;
+				height:100%;
+				width: 48%;
+				padding-left: 2%;
+				background-color: #E0CEF2; 
+				border-right: 1px solid #aaa;
+				white-space: wrap;
+				text-align: left;
+				font-weight: bold;
+				content: attr(data-title);
+			}
+		}
+		</style>
+  </head>
+  <body >
+  <div id="no-more-tables">
+    <table>
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Name</th>
+          <th>Date Of Birth</th>
+          <th>Gender</th>
+          <th>Department</th>
+          <th>Section</th>
+          <th>Fee</th>
+		  <th>CGPA</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td data-title="#">1</td>
+          <td data-title="Name">Janet Baker</td>
+          <td data-title="Date Of Birth">18-12-1994</td>
+          <td data-title="Gender">M</td>
+          <td data-title="Department">CSE</td>
+          <td data-title="Section">B2</td>
+          <td data-title="Fee">$5000</td>
+		  <td data-title="CGPA">8.45</td>
+        </tr>
+		<tr>
+          <td data-title="#">2</td>
+          <td data-title="Name">Darren Kirk</td>
+          <td data-title="Date Of Birth">20-12-1993</td>
+          <td data-title="Gender">M</td>
+          <td data-title="Department">ECE</td>
+          <td data-title="Section">D2</td>
+          <td data-title="Fee">$6000</td>
+		  <td data-title="CGPA">6</td>
+        </tr>
+		<tr>
+          <td data-title="#">3</td>
+          <td data-title="Name">Sherly Brown</td>
+          <td data-title="Date Of Birth">03-12-1994</td>
+          <td data-title="Gender">F</td>
+          <td data-title="Department">CSE</td>
+          <td data-title="Section">B3</td>
+          <td data-title="Fee">$4500</td>
+		   <td data-title="CGPA">7.5</td>
+        </tr>
+		<tr>
+          <td data-title="#">4</td>
+          <td data-title="Name">Ravi Patel</td>
+          <td data-title="Date Of Birth">21-12-1994</td>
+          <td data-title="Gender">M</td>
+          <td data-title="Department">Civil</td>
+          <td data-title="Section">F1</td>
+          <td data-title="Fee">$7599</td>
+		   <td data-title="CGPA">9</td>
+        </tr>
+      </tbody>
+    </table>
+	</div>
+  </body>
+</html>
