@@ -1,1 +1,4 @@
-true
+def true():
+  return true
+  
+true()
