@@ -1,5 +1,7 @@
 Code-Base
 =========
+[![Build Status](https://travis-ci.org/shivajivarma/code-base.svg?branch=master)](https://travis-ci.org/shivajivarma/code-base)
+
 Hi,
 
 'Code Base' is a repository of programs, using which you can analyze, hack and learn basic programs.
