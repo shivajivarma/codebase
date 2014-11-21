@@ -4,8 +4,6 @@
     
 */
 
-
-
 function getUrlParameter( key ){  
 		key = key.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");  
 		var regexExpression = "[\\?&]"+key+"=([^&#]*)";  
