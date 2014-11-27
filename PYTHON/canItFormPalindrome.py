@@ -15,6 +15,3 @@ def canItFormPalindrome(str):
 			return False
 		str = str.replace(str[0],"")
 	return True
-
-if __name__ == "__main__":
-	print canItFormPalindrome(raw_input())
