@@ -3,7 +3,7 @@ python:
   - "3.2"
   - "3.3"
 # command to install dependencies
-script: python  PYTHON/test/test.py
+script: python  PYTHON/test.py
 branches:
   only:
     - master
