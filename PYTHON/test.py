@@ -1,2 +1,2 @@
-import can-it-form-palidrome.py
-can-it-form-palidrome.canItFormPalindrome("teest")
+from can-it-form-palidrome.py import canItFormPalindrome
+canItFormPalindrome("teest")
