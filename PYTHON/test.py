@@ -1,2 +1,2 @@
-from canItFormPalindrome.py import canItFormPalindrome
+from canItFormPalindrome import canItFormPalindrome
 canItFormPalindrome("teest")
