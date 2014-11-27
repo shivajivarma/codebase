@@ -17,4 +17,4 @@ def canItFormPalindrome(str):
 	return True
 
 if __name__ == "__main__":
-    print canItFormPalindrome(raw_input())
+	print canItFormPalindrome(raw_input())
