@@ -4,7 +4,7 @@
 int main(){
 	char buffer[20];
 	int pfd[2];
-	if(pipe(pfd)==-1){
+	if(pipe(pfd) == -1){
 		printf("Pipe Creation Failed"); 
 		exit(0);
 	}
