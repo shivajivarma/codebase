@@ -1,15 +1,15 @@
 #include<stdio.h>
 #include<unistd.h>
 #include<stdlib.h>
-int main()
-{
+int main(){
 	char buffer[20];
 	int pfd[2];
 	if(pipe(pfd)==-1){
 		printf("Pipe Creation Failed"); 
 		exit(0);
 	}
-	else printf("Pipe Created Successfully\n");
+	else 
+		printf("Pipe Created Successfully\n");
 
 	printf("Writing to pipe\n");
 	write(pfd[1],"Hello World",11);
@@ -18,4 +18,6 @@ int main()
 	read(pfd[0],buffer,11);
 	
 	printf("Buffer : %s\n",buffer);
+	
+	return 1;
 }
