@@ -6,6 +6,6 @@ canItFormPalindrome("malayalam")
 canItFormPalindrome("kkeesii")
 
 ''' In-valid outputs canItFormPalindrome '''
-!canItFormPalindrome("tttie")
-!canItFormPalindrome("ioplo")
-!canItFormPalindrome("kokokokolllj")
+not canItFormPalindrome("tttie")
+not canItFormPalindrome("ioplo")
+not canItFormPalindrome("kokokokolllj")
