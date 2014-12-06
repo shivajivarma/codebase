@@ -1,0 +1,111 @@
+#include <iostream>
+using namespace std;
+
+const int size = 1000;
+
+class Memory
+{
+   public:
+      	int a=0;
+    	int b=0;
+    	bool flag=true;
+};
+
+Memory validate(char **matrix, int len,int x, int y, Memory m){
+    
+    
+    	if(len == 3){
+	    	if(matrix[x+len/2][y+len/2] == 'a'){
+    			m.a++;
+    		}else 
+    			m.b++;
+    	}
+    	
+		if(matrix[x][y+len/2] == 'a'){
+			m.a++;
+		}else m.b++;
+		
+		if(matrix[x+len/2][y] == 'a'){
+			m.a++;
+		}else m.b++;
+		
+		if(matrix[x+len-1][y+len/2] == 'a'){
+			m.a++;
+		}else m.b++;
+		
+		if(matrix[x+len/2][y+len-1] == 'a'){
+			m.a++;
+		}else m.b++;
+		
+    		
+		if(m.a>1 && m.b>1){
+        	m.flag = false;
+    	}
+	    return m;
+    	
+}
+
+int count(char **matrix, int x, int y){
+    	int count = 0,width;
+    	
+    	
+    Memory **memory  = new Memory*[size];
+    
+    for (int i = 0; i < size; i++) {
+      memory[i] = new Memory[size];
+   	}
+    	width = (x < y)? x : y;
+    	
+    	if(width%2==0){
+    		width--;
+    	}
+    	
+    	if(width > 23){
+    		width = 23;
+    	}
+    	
+    	for(int l = 3; l <= width;l=l+2){
+	    	for (int i = 0; i < (x - l + 1); i++) {
+	    		for (int j = 0; j < (y - l + 1); j++) {
+	    			if(memory[i+l/2][j+l/2].flag){
+	    					    			
+	    				memory[i+l/2][j+l/2] = validate(matrix, l, i, j,memory[i+l/2][j+l/2]);
+	    				if(memory[i+l/2][j+l/2].flag){
+			    			count++;
+			    		}
+	    			}
+	    		}
+	    	}
+    	}
+    delete memory;
+    return count;
+}
+    
+    
+int main()
+{
+	int N;
+	cin >> N;
+	for (int i = 0; i < N; i++) {
+		int x,y;
+		cin >> x >> y;
+		
+		
+		char **matrix = new char*[size];
+		for (int j = 0; j < x; j++) { 
+             	char line[y];
+             	cin >> line;
+             	matrix[j] = new char[size];
+             	for (int k = 0; k < y; k++) {
+             		matrix[j][k] = line[k];
+             	}
+             	
+             }
+             
+            cout << count(matrix, x, y) << endl;
+            
+        delete matrix;
+	}
+   
+    return 0;
+}
