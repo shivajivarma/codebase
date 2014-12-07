@@ -7,3 +7,10 @@ script: python  PYTHON/test.py
 branches:
   only:
     - master
+    
+language: c
+# command to install dependencies
+script: python  C/test.c
+branches:
+  only:
+    - master
