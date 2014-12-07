@@ -9,8 +9,9 @@ branches:
     - master
     
 language: c
+compiler: clang
 # command to install dependencies
-script: python  C/test.c
+script: clang  C/test.c
 branches:
   only:
     - master
