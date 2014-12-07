@@ -1,4 +1,4 @@
-#include<system.io>
+#include<stdio.h>
 
 int main(){
  return 1;
