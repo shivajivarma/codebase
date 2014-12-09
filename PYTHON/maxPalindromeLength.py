@@ -1,4 +1,7 @@
-def canItFormPalindrome(str):
+'''
+Compute max length of string which is palidrome derived from input string.
+'''
+def maxPalindromeLength(str):
 	leng = 0
 	ext = 0
 	while(len(str)>0):
@@ -12,4 +15,4 @@ def canItFormPalindrome(str):
 	
 T = int(raw_input())
 for i in xrange(0, T):
-	canItFormPalindrome(raw_input())
+	maxPalindromeLength(raw_input())
