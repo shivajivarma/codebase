@@ -2,16 +2,13 @@ language: python
 python:
   - "3.2"
   - "3.3"
-# command to install dependencies
-script: python  PYTHON/test.py
-branches:
-  only:
-    - master
-    
+
 language: c
 compiler: clang
 # command to install dependencies
-script: clang  C/test.c
+script:
+  - clang  C/test.c
+  - python  PYTHON/test.py
 branches:
   only:
     - master
