@@ -1,9 +1,6 @@
-language: python
-python:
-  - "3.2"
-  - "3.3"
-
-language: c
+language: 
+  - c
+  - python
 compiler: clang
 # command to install dependencies
 script:
