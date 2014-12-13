@@ -1,7 +1,6 @@
 Code-Base
 =========
 [![Build Status](https://travis-ci.org/shivajivarma/code-base.svg?branch=master)](https://travis-ci.org/shivajivarma/code-base)
-[![License](MIT)](http://shivajivarma.com/pages/LICENSE/)
 
 Hi,
 
