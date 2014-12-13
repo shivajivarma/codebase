@@ -1,6 +1,7 @@
 Code-Base
 =========
 [![Build Status](https://travis-ci.org/shivajivarma/code-base.svg?branch=master)](https://travis-ci.org/shivajivarma/code-base)
+[<img src="https://img.shields.io/pypi/l/tortilla.svg?style=flat">](https://github.com/redodo/tortilla/blob/master/LICENSE)
 
 Hi,
 
