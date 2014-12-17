@@ -5,7 +5,6 @@ ssm
 
 It can be resolved to sms, which is a palindrome.
 '''
-
 def canItFormPalindrome(str):
 	odd = 0
 	while(len(str)>0):
