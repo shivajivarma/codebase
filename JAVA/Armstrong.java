@@ -10,7 +10,7 @@ import java.util.*;
 
 class Armstrong {
 	
-	public static boolean Armstrong(int number){
+	public static boolean isArmstrong(int number){
 		int  sum=0,temp,r;
 		temp=number;
 		while (temp!=0) {
@@ -32,7 +32,7 @@ class Armstrong {
 		
 		try{
 			int n=in.nextInt();
-			if (Armstrong(n))
+			if (isArmstrong(n))
 				System.out.println(n + " is an amstrong number"); 
 			else
 				System.out.println(n + " is not an amstrong number");
