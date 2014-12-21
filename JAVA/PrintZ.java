@@ -1,4 +1,5 @@
 /*
+
 Given 'n', print the symbol 'Z' spanning n rows using '*' symbol. Value of n>2 and n<=20.
 
 Example:
@@ -14,6 +15,7 @@ Output:
   *
  *
 ****
+
 */
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
