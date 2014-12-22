@@ -4,12 +4,11 @@ Code-Base
 
 Hi,
 
-'Code Base' is a repository of programs, using which you can analyze and hack code to learn basic programming.
+'Code Base' is a repository of programs, you can analyze and hack the code to learn programming. Algorithms playground for common questions solved in multiple languages. 
+In case you want to prepare yourself for a job interview - try to solve it yourself first, then have a look here.
 
-You can contribute, by sending your program(eg: How to write palidrome program in c) to us through mail [codebase@shivajivarma.com] which will be include in our repository (under your name), or you can add your program and raise a pull request.
-
-
-**List of available programs**
+Problems
+========
 		
 1. Insertion sort 	[[C](C/sorting-algorithms/insertion-sort.c)]
 2. Selection sort	[[C](C/sorting-algorithms/seletion-sort.c)]
@@ -31,6 +30,10 @@ You can contribute, by sending your program(eg: How to write palidrome program i
 17. Web Server [[PYTHON](PYTHON/web-server.py)]
 
 and more...
+
+Contribute
+==========
+Did you find a bug? any way to do it better? please feel free to pull-request it (or) drop a mail at [codebase AT shivajivarma.com](codebase@shivajivarma.com) :)
 
 With regards,  
 _Shivaji Varma_
