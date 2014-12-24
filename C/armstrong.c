@@ -12,22 +12,22 @@ int main()
 {
     int n = 0,sum=0,temp,r;
 		
-		printf("Enter number: ");	
-		scanf("%d",&n);
+	printf("Enter number: ");	
+	scanf("%d",&n);
 	
-		temp=n;
+	temp=n;
 	
-		while (temp!=0) {
-			r=temp%10;
-			sum=sum+(r*r*r);
-			temp=temp/10;
-		}
+	while (temp!=0) {
+		r=temp%10;
+		sum=sum+(r*r*r);
+		temp=temp/10;
+	}
 
 
-		if (n==sum)
-			printf("Entered number is amstrong"); 
-		else
-			printf("Not amstrong");
+	if (n==sum)
+		printf("Entered number is amstrong"); 
+	else
+		printf("Not amstrong");
         
   return 0;
 }
