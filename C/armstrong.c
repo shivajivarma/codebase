@@ -8,28 +8,36 @@ Another example, 153. 1^3 + 5^3 + 3^3 = 1 + 125 + 27 = 153.
 
 #include<stdio.h>
 
-int main()
-{
-    int n = 0,sum=0,temp,r;
-		
-	printf("Enter number: ");	
-	scanf("%d",&n);
-	
-	temp=n;
-	
-	while (temp!=0) {
-		r=temp%10;
-		sum=sum+(r*r*r);
+
+int isAmstrong(int num){
+    
+    int temp = num,sum=0,digit;
+    
+    while (temp != 0) {
+    	digit = temp % 10;
+		sum=sum +(digit*digit*digit);
 		temp=temp/10;
 	}
+    
+    if(num == sum)
+        return 1;
+    
+    return 0;
+}
 
-
-	if (n==sum)
-		printf("Entered number is amstrong"); 
+int main(){
+    
+    int n;
+    	
+	printf("Enter number : ");	
+	scanf("%d",&n);
+	
+	if (isAmstrong(n))
+		printf("\n'%d' is an amstrong number",n); 
 	else
-		printf("Not amstrong");
+		printf("\n'%d' is not an amstrong number",n); 
         
-  return 0;
+    return 0;
 }
 
 /*
