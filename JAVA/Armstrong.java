@@ -3,18 +3,16 @@ import java.util.*;
 class Armstrong {
 	
 	public static boolean isArmstrong(int number){
-		int  sum=0,temp,r;
-		temp=number;
+		int  sum=0, temp = number, digit;
+		
 		while (temp!=0) {
-			r=temp%10;
-			sum=sum+(r*r*r);
-			temp=temp/10;
+			digit = temp % 10;
+			sum = sum +(digit * digit * digit);
+			temp = temp / 10;
 		}
 		if(number == sum)
 			return true;
-		else
-			return false;
-
+		return false;
 	}
 	
 	public static void main(String[] args) {
