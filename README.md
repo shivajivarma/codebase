@@ -1,6 +1,5 @@
 Code-Base
 =========
-[![Build Status](https://travis-ci.org/shivajivarma/code-base.svg?branch=master)](https://travis-ci.org/shivajivarma/code-base)
 
 'Code Base' is a repository of programs, you can analyze and hack the code to learn programming. Algorithms playground for common questions solved in multiple languages. 
 In case you want to prepare yourself for a job interview - try to solve it yourself first, then have a look here.
