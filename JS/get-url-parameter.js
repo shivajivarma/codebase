@@ -5,10 +5,12 @@ then getUrlParameter('age') will give you "22".
 */
 
 function getUrlParameter( key ){  
-		key = key.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");  
-		var regexExpression = "[\\?&]"+key+"=([^&#]*)";  
-		var regex = new RegExp( regexExpression );  
-		var results = regex.exec( window.location.href );  
-		if( results == null )    return "";  
-			else    return unescape(results[1]).replace(/<script.*>.*<\/script>/g, "");
+	key = key.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");  
+	var regexExpression = "[\\?&]"+key+"=([^&#]*)";  
+	var regex = new RegExp( regexExpression );  
+	var results = regex.exec( window.location.href );  
+	if( results == null )
+		return "";  
+	else
+		return unescape(results[1]).replace(/<script.*>.*<\/script>/g, "");
 }
