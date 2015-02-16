@@ -99,7 +99,7 @@ jsonObject = JSON.parse(jsonString);
 
 /* JSON class is not supported by old browsers like IE7, to over come it you can include json2 javascript library (https://raw.github.com/douglascrockford/JSON-js/master/json.js) in the page */
 
-
+/* If Ajax calls are involved */
 isCondition = function(condition, success, failure){
 	if(condition){
 		// Code
