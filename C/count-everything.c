@@ -35,7 +35,3 @@ main(int argc, char *argv[]){
 	
 	return 1;
 }
-/*
-With regards,
-Shivaji Varma
-*/
