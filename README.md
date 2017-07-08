@@ -16,14 +16,14 @@ Problems
 7. Random Number ([c](https://github.com/shivajivarma/codebase-c/blob/master/src/random-number/random-number.c))
 8. Reversing A String ([c](https://github.com/shivajivarma/codebase-c/blob/master/src/reverse-string/reverse-string.c))
 9. Search Algorithms 
-  1. [Linear Search](http://shivajivarma.com/code-base/c/2015/01/05/linear-search/) ([c](https://github.com/shivajivarma/codebase-c/blob/master/src/searching-algorithms/linear-search/program.c))
-  2. [Binary Search](http://shivajivarma.com/code-base/c/2015/01/05/binary-search/) ([c](https://github.com/shivajivarma/codebase-c/blob/master/src/searching-algorithms/binary-search/binary-search.c))
+    1. [Linear Search](http://shivajivarma.com/code-base/c/2015/01/05/linear-search/) ([c](https://github.com/shivajivarma/codebase-c/blob/master/src/searching-algorithms/linear-search/program.c))
+    2. [Binary Search](http://shivajivarma.com/code-base/c/2015/01/05/binary-search/) ([c](https://github.com/shivajivarma/codebase-c/blob/master/src/searching-algorithms/binary-search/binary-search.c))
 10. Sorting Algorithms 
-  1. [Insertion Sort](http://shivajivarma.com/code-base/c/2014/12/28/insertion-sort/) ([c](https://github.com/shivajivarma/codebase-c/blob/master/src/sorting-algorithms/insertion-sort/program.c))
-  2. [Selection Sort](http://shivajivarma.com/code-base/c/2015/01/02/selection-sort/) ([c](https://github.com/shivajivarma/codebase-c/blob/master/src/sorting-algorithms/selection-sort/program.c))
-  3. [Merge Sort](http://shivajivarma.com/code-base/c/2015/01/02/merge-sort/) ([c](https://github.com/shivajivarma/codebase-c/blob/master/src/sorting-algorithms/merge-sort/program.c))
-  4. [Quick Sort](http://shivajivarma.com/code-base/c/2015/01/02/quick-sort/) ([c](https://github.com/shivajivarma/codebase-c/blob/master/src/sorting-algorithms/quick-sort/program.c))
-  5. [Bubble Sort](http://shivajivarma.com/code-base/c/2014/12/28/bubble-sort/) ([c](https://github.com/shivajivarma/codebase-c/blob/master/src/sorting-algorithms/bubble-sort/program.c))
+    1. [Insertion Sort](http://shivajivarma.com/code-base/c/2014/12/28/insertion-sort/) ([c](https://github.com/shivajivarma/codebase-c/blob/master/src/sorting-algorithms/insertion-sort/program.c))
+    2. [Selection Sort](http://shivajivarma.com/code-base/c/2015/01/02/selection-sort/) ([c](https://github.com/shivajivarma/codebase-c/blob/master/src/sorting-algorithms/selection-sort/program.c))
+    3. [Merge Sort](http://shivajivarma.com/code-base/c/2015/01/02/merge-sort/) ([c](https://github.com/shivajivarma/codebase-c/blob/master/src/sorting-algorithms/merge-sort/program.c))
+    4. [Quick Sort](http://shivajivarma.com/code-base/c/2015/01/02/quick-sort/) ([c](https://github.com/shivajivarma/codebase-c/blob/master/src/sorting-algorithms/quick-sort/program.c))
+    5. [Bubble Sort](http://shivajivarma.com/code-base/c/2014/12/28/bubble-sort/) ([c](https://github.com/shivajivarma/codebase-c/blob/master/src/sorting-algorithms/bubble-sort/program.c))
 11. Subsets ([c](https://github.com/shivajivarma/codebase-c/blob/master/src/subsets/subsets.c))
 12. Towers Of Hanoi ([c](https://github.com/shivajivarma/codebase-c/blob/master/src/towers-of-hanoi/towers-of-hanoi.c))
 13. Web Server
