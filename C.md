@@ -14,10 +14,10 @@ Problems
 6. Permutations ([source code](https://github.com/shivajivarma/codebase-c/blob/master/src/permutations/permutations.c))
 7. Random Number ([source code](https://github.com/shivajivarma/codebase-c/blob/master/src/random-number/random-number.c))
 8. Reversing a String ([source code](https://github.com/shivajivarma/codebase-c/blob/master/src/reverse-string/reverse-string.c))
-9. Search Algorithms
+9. Search Algorithms 
   1. Linear Search ([source code](https://github.com/shivajivarma/codebase-c/blob/master/src/searching-algorithms/linear-search/program.c))
   2. Binary Search ([source code](https://github.com/shivajivarma/codebase-c/blob/master/src/searching-algorithms/binary-search/binary-search.c))
-10. Sorting Algorithms
+10. Sorting Algorithms 
   1. Insertion Sort ([source code](https://github.com/shivajivarma/codebase-c/blob/master/src/sorting-algorithms/insertion-sort/program.c))
   2. Selection Sort ([source code](https://github.com/shivajivarma/codebase-c/blob/master/src/sorting-algorithms/selection-sort/program.c))
   3. Merge Sort ([source code](https://github.com/shivajivarma/codebase-c/blob/master/src/sorting-algorithms/merge-sort/program.c))
