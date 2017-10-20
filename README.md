@@ -27,6 +27,7 @@ Problems
 11. Subsets ([c](https://github.com/shivajivarma/codebase-c/blob/master/src/subsets/subsets.c))
 12. Towers Of Hanoi ([c](https://github.com/shivajivarma/codebase-c/blob/master/src/towers-of-hanoi/towers-of-hanoi.c))
 13. Web Server
+14. Spiral Matrix ([java](https://github.com/shivajivarma/codebase-java/blob/master/src/main/java/com/shivajivarma/codebase/spiralMatrix/SpiralMatrix.java))
 
 and more...
 
