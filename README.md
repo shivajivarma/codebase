@@ -16,7 +16,7 @@ Problems
 7. Random Number ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/random-number/random-number.c))
 8. Reversing A String ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/reverse-string/reverse-string.c))
 9. Search Algorithms 
-    1. [Linear Search](http://shivajivarma.com/code-base/c/2015/01/05/linear-search/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/searching-algorithms/linear-search/program.c))
+    1. [Linear Search](http://shivajivarma.com/code-base/c/2015/01/05/linear-search/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/searching-algorithms/linear-search/program.c), [Java](https://github.com/shivajivarma/codebase-java/blob/master/src/main/java/com/shivajivarma/codebase/search/linear_search/LinearSearch.java))
     2. [Binary Search](http://shivajivarma.com/code-base/c/2015/01/05/binary-search/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/searching-algorithms/binary-search/binary-search.c))
 10. Sorting Algorithms 
     1. [Insertion Sort](http://shivajivarma.com/code-base/c/2014/12/28/insertion-sort/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/sorting-algorithms/insertion-sort/program.c))
@@ -28,7 +28,7 @@ Problems
 12. Towers Of Hanoi ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/towers-of-hanoi/towers-of-hanoi.c))
 13. Spiral Matrix ([Java](https://github.com/shivajivarma/codebase-java/blob/master/src/main/java/com/shivajivarma/codebase/spiral_matrix/SpiralMatrix.java))
 14. Linked Lists
-    1. Singly Linked List ([Java](https://github.com/shivajivarma/codebase-java/blob/master/src/main/java/com/shivajivarma/codebase/data_structures/single_linked_list/SinglyLinkedList.java))
+    1. Singly Linked List ([Java](https://github.com/shivajivarma/codebase-java/blob/master/src/main/java/com/shivajivarma/codebase/linked_lists/single_linked_list/SinglyLinkedList.java))
 15. Networking
     1. Sockets (Server - Client Communication) ([Java](https://github.com/shivajivarma/codebase-java/tree/master/src/main/java/com/shivajivarma/codebase/network/sockets))
 16. Display Patterns
