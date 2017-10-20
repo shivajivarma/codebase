@@ -31,6 +31,9 @@ Problems
     1. Singly Linked List ([Java](https://github.com/shivajivarma/codebase-java/blob/master/src/main/java/com/shivajivarma/codebase/data_structures/single_linked_list/SinglyLinkedList.java))
 15. Networking
     1. Sockets (Server - Client Communication) ([Java](https://github.com/shivajivarma/codebase-java/tree/master/src/main/java/com/shivajivarma/codebase/network/sockets))
+16. Display Patterns
+    1. Right Angled Triangle ([Java](https://github.com/shivajivarma/codebase-java/blob/master/src/main/java/com/shivajivarma/codebase/display_patterns/DisplayPattern.java))
+    2. Print Z ([Java](https://github.com/shivajivarma/codebase-java/blob/master/src/main/java/com/shivajivarma/codebase/display_patterns/DisplayPattern.java))
 
 and more...
 
