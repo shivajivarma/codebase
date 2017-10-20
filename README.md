@@ -17,7 +17,7 @@ Problems
 8. Reversing A String ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/reverse-string/reverse-string.c))
 9. Search Algorithms 
     1. [Linear Search](http://shivajivarma.com/code-base/c/2015/01/05/linear-search/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/searching-algorithms/linear-search/program.c), [Java](https://github.com/shivajivarma/codebase-java/blob/master/src/main/java/com/shivajivarma/codebase/search/linear_search/LinearSearch.java))
-    2. [Binary Search](http://shivajivarma.com/code-base/c/2015/01/05/binary-search/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/searching-algorithms/binary-search/binary-search.c))
+    2. [Binary Search](http://shivajivarma.com/code-base/c/2015/01/05/binary-search/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/searching-algorithms/binary-search/binary-search.c), [Java](https://github.com/shivajivarma/codebase-java/blob/master/src/main/java/com/shivajivarma/codebase/search/binary_search/BinarySearch.java))
 10. Sorting Algorithms 
     1. [Insertion Sort](http://shivajivarma.com/code-base/c/2014/12/28/insertion-sort/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/sorting-algorithms/insertion-sort/program.c))
     2. [Selection Sort](http://shivajivarma.com/code-base/c/2015/01/02/selection-sort/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/sorting-algorithms/selection-sort/program.c))
