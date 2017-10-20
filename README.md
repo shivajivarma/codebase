@@ -28,7 +28,7 @@ Problems
 12. Towers Of Hanoi ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/towers-of-hanoi/towers-of-hanoi.c))
 13. Spiral Matrix ([Java](https://github.com/shivajivarma/codebase-java/blob/master/src/main/java/com/shivajivarma/codebase/spiral_matrix/SpiralMatrix.java))
 14. Linked Lists
-    1. Singly Linked List ([Java](https://github.com/shivajivarma/codebase-java/blob/master/src/main/java/com/shivajivarma/codebase/ds/singly_linked_list/SinglyLinkedList.java))
+    1. Singly Linked List ([Java](https://github.com/shivajivarma/codebase-java/blob/master/src/main/java/com/shivajivarma/codebase/ds/single_linked_list/SinglyLinkedList.java))
 
 and more...
 
