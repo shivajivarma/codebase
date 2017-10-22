@@ -18,7 +18,7 @@ Problems
 14. Linked Lists
     1. Singly Linked List ([Java](https://github.com/shivajivarma/codebase-java/blob/master/src/main/java/com/shivajivarma/codebase/linked_lists/single_linked_list/SinglyLinkedList.java))
 5. Palindrome String ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/palindrome/palindrome.c))
-6. Permutations ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/permutations/permutations.c))
+6. [Permutations](http://shivajivarma.com/code-base/2017/10/22/permutations/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/permutations/permutations.c))
 7. Random Number ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/random-number/random-number.c))
 8. Reversing A String ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/reverse-string/reverse-string.c))
 9. Search Algorithms 
