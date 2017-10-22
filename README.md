@@ -7,7 +7,7 @@ In case you want to prepare yourself for a job interview - try to solve it yours
 Problems
 ========
 
-1. [Anagram](http://shivajivarma.com/code-base/c/2014/12/28/anagram/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/anagram/anagram.c))
+1. [Anagram](http://shivajivarma.com/code-base/2014/12/28/armstrong-number/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/anagram/anagram.c))
 2. [Armstrong Number](http://shivajivarma.com/code-base/c/2014/12/28/armstrong-number/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/armstrong-number/armstrong-number.c), [JavaScript](https://github.com/shivajivarma/codebase-js/blob/master/armstrong-number/armstrong-number.js), [Python](https://github.com/shivajivarma/codebase-python/blob/master/armstrong-number/program.py))
 16. Display Patterns
     1. Right Angled Triangle ([Java](https://github.com/shivajivarma/codebase-java/blob/master/src/main/java/com/shivajivarma/codebase/display_patterns/DisplayPattern.java))
