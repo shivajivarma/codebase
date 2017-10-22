@@ -7,10 +7,15 @@ In case you want to prepare yourself for a job interview - try to solve it yours
 Problems
 ========
 
-1. [Armstrong Number](http://shivajivarma.com/code-base/c/2014/12/28/armstrong-number/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/armstrong-number/armstrong-number.c), [JavaScript](https://github.com/shivajivarma/codebase-js/blob/master/armstrong-number/armstrong-number.js), [Python](https://github.com/shivajivarma/codebase-python/blob/master/armstrong-number/program.py))
-2. [Anagram](http://shivajivarma.com/code-base/c/2014/12/28/anagram/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/anagram/anagram.c))
+1. [Anagram](http://shivajivarma.com/code-base/c/2014/12/28/anagram/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/anagram/anagram.c))
+2. [Armstrong Number](http://shivajivarma.com/code-base/c/2014/12/28/armstrong-number/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/armstrong-number/armstrong-number.c), [JavaScript](https://github.com/shivajivarma/codebase-js/blob/master/armstrong-number/armstrong-number.js), [Python](https://github.com/shivajivarma/codebase-python/blob/master/armstrong-number/program.py))
+16. Display Patterns
+    1. Right Angled Triangle ([Java](https://github.com/shivajivarma/codebase-java/blob/master/src/main/java/com/shivajivarma/codebase/display_patterns/DisplayPattern.java))
+    2. Print Z ([Java](https://github.com/shivajivarma/codebase-java/blob/master/src/main/java/com/shivajivarma/codebase/display_patterns/DisplayPattern.java))
 3. [Greatest Common Divisor of two numbers](http://shivajivarma.com/code-base/c/2015/01/03/greatest-common-divisor/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/gcd/gcd.c))
 4. [Leap Year](http://shivajivarma.com/code-base/c/2017/07/08/leap-year/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/leap-year/leap-year.c), [JavaScript](https://github.com/shivajivarma/codebase-js/blob/master/leap-year/leap-year.js))
+14. Linked Lists
+    1. Singly Linked List ([Java](https://github.com/shivajivarma/codebase-java/blob/master/src/main/java/com/shivajivarma/codebase/linked_lists/single_linked_list/SinglyLinkedList.java))
 5. Palindrome String ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/palindrome/palindrome.c))
 6. Permutations ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/permutations/permutations.c))
 7. Random Number ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/random-number/random-number.c))
@@ -27,13 +32,8 @@ Problems
 11. Subsets ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/subsets/subsets.c))
 12. Towers Of Hanoi ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/towers-of-hanoi/towers-of-hanoi.c))
 13. Spiral Matrix ([Java](https://github.com/shivajivarma/codebase-java/blob/master/src/main/java/com/shivajivarma/codebase/spiral_matrix/SpiralMatrix.java))
-14. Linked Lists
-    1. Singly Linked List ([Java](https://github.com/shivajivarma/codebase-java/blob/master/src/main/java/com/shivajivarma/codebase/linked_lists/single_linked_list/SinglyLinkedList.java))
 15. Networking
     1. Sockets (Server - Client Communication) ([Java](https://github.com/shivajivarma/codebase-java/tree/master/src/main/java/com/shivajivarma/codebase/network/sockets))
-16. Display Patterns
-    1. Right Angled Triangle ([Java](https://github.com/shivajivarma/codebase-java/blob/master/src/main/java/com/shivajivarma/codebase/display_patterns/DisplayPattern.java))
-    2. Print Z ([Java](https://github.com/shivajivarma/codebase-java/blob/master/src/main/java/com/shivajivarma/codebase/display_patterns/DisplayPattern.java))
 
 and more...
 
