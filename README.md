@@ -7,7 +7,7 @@ In case you want to prepare yourself for a job interview - try to solve it yours
 Problems
 ========
 
-1. [Armstrong Number](http://shivajivarma.com/code-base/c/2014/12/28/armstrong-number/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/armstrong-number/armstrong-number.c), [JavaScript](https://github.com/shivajivarma/codebase-js/blob/master/armstrong-number/armstrong-number.js))
+1. [Armstrong Number](http://shivajivarma.com/code-base/c/2014/12/28/armstrong-number/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/armstrong-number/armstrong-number.c), [JavaScript](https://github.com/shivajivarma/codebase-js/blob/master/armstrong-number/armstrong-number.js), [Python](https://github.com/shivajivarma/codebase-python/blob/master/armstrong-number/program.py))
 2. [Anagram](http://shivajivarma.com/code-base/c/2014/12/28/anagram/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/anagram/anagram.c))
 3. [Greatest Common Divisor of two numbers](http://shivajivarma.com/code-base/c/2015/01/03/greatest-common-divisor/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/gcd/gcd.c))
 4. [Leap Year](http://shivajivarma.com/code-base/c/2017/07/08/leap-year/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/leap-year/leap-year.c), [JavaScript](https://github.com/shivajivarma/codebase-js/blob/master/leap-year/leap-year.js))
