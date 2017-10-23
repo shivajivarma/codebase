@@ -34,7 +34,7 @@ Problems
 12. [Towers Of Hanoi](http://shivajivarma.com/code-base/2017/10/23/towers-of-hanoi/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/towers-of-hanoi/towers-of-hanoi.c))
 13. Spiral Matrix ([Java](https://github.com/shivajivarma/codebase-java/blob/master/src/main/java/com/shivajivarma/codebase/spiral_matrix/SpiralMatrix.java))
 15. Networking
-    1. Sockets (Server - Client Communication) ([Java](https://github.com/shivajivarma/codebase-java/tree/master/src/main/java/com/shivajivarma/codebase/network/sockets))
+    1. [Sockets (Server - Client Communication)](http://shivajivarma.com/code-base/2017/10/23/sockets-server-client-communication/) ([Java](https://github.com/shivajivarma/codebase-java/tree/master/src/main/java/com/shivajivarma/codebase/network/sockets))
 
 and more...
 
