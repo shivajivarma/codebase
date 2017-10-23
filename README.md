@@ -31,7 +31,7 @@ Problems
     4. [Quick Sort](http://shivajivarma.com/code-base/2015/01/02/quick-sort/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/sorting-algorithms/quick-sort/program.c))
     5. [Selection Sort](http://shivajivarma.com/code-base/2015/01/02/selection-sort/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/sorting-algorithms/selection-sort/program.c))
 11. Subsets ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/subsets/subsets.c))
-12. Towers Of Hanoi ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/towers-of-hanoi/towers-of-hanoi.c))
+12. [Towers Of Hanoi](http://shivajivarma.com/code-base/2017/10/23/towers-of-hanoi/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/towers-of-hanoi/towers-of-hanoi.c))
 13. Spiral Matrix ([Java](https://github.com/shivajivarma/codebase-java/blob/master/src/main/java/com/shivajivarma/codebase/spiral_matrix/SpiralMatrix.java))
 15. Networking
     1. Sockets (Server - Client Communication) ([Java](https://github.com/shivajivarma/codebase-java/tree/master/src/main/java/com/shivajivarma/codebase/network/sockets))
