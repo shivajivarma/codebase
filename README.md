@@ -17,6 +17,7 @@ Algorithm is an unambiguous specification of how to solve a class of problems. A
 ### Algorithms by Topic
 
 * **Math**
+    * [Armstrong Number](http://shivajivarma.com/code-base/2014/12/28/armstrong-number/)
     * [Greatest Common Divisor of two numbers](http://shivajivarma.com/code-base/2015/01/03/greatest-common-divisor/)
 * **Search**
     * [Binary Search](http://shivajivarma.com/code-base/2015/01/05/binary-search/)
@@ -33,7 +34,6 @@ Algorithm is an unambiguous specification of how to solve a class of problems. A
     * [Palindrome String](http://shivajivarma.com/code-base/2018/05/27/palindrome)
     * [Reversing A String](http://shivajivarma.com/code-base/2018/05/27/reversing-a-string)
 * **Uncategorized**
-	* [Armstrong Number](http://shivajivarma.com/code-base/2014/12/28/armstrong-number/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/armstrong-number/armstrong-number.c), [JavaScript](https://github.com/shivajivarma/codebase-js/blob/master/armstrong-number/armstrong-number.js), [Python](https://github.com/shivajivarma/codebase-python/blob/master/armstrong-number/program.py))
 	* Display Patterns
 		* [Right Angled Triangle](http://shivajivarma.com/code-base/2017/10/23/display-patterns) ([Java](https://github.com/shivajivarma/codebase-java/blob/master/src/main/java/com/shivajivarma/codebase/display_patterns/DisplayPattern.java))
 		* [Print Z](http://shivajivarma.com/code-base/2017/10/23/display-patterns) ([Java](https://github.com/shivajivarma/codebase-java/blob/master/src/main/java/com/shivajivarma/codebase/display_patterns/DisplayPattern.java))
