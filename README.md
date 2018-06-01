@@ -9,6 +9,7 @@ Data structure is a particular way of organizing and storing data in a computer 
 
 * Linked Lists
     * [Singly Linked List](http://shivajivarma.com/code-base/2018/05/27/singly-linked-list)
+* [Stack](http://shivajivarma.com/code-base/2018/06/01/stack/)
 
 ## Algorithms
 
@@ -16,6 +17,8 @@ Algorithm is an unambiguous specification of how to solve a class of problems. A
 
 ### Algorithms by Topic
 
+* **Date**
+    * [Leap Year](http://shivajivarma.com/code-base/2017/07/08/leap-year/)
 * **Math**
     * [Armstrong Number](http://shivajivarma.com/code-base/2014/12/28/armstrong-number/)
     * [Greatest Common Divisor of two numbers](http://shivajivarma.com/code-base/2015/01/03/greatest-common-divisor/)
@@ -37,7 +40,6 @@ Algorithm is an unambiguous specification of how to solve a class of problems. A
 	* Display Patterns
 		* [Right Angled Triangle](http://shivajivarma.com/code-base/2017/10/23/display-patterns) ([Java](https://github.com/shivajivarma/codebase-java/blob/master/src/main/java/com/shivajivarma/codebase/display_patterns/DisplayPattern.java))
 		* [Print Z](http://shivajivarma.com/code-base/2017/10/23/display-patterns) ([Java](https://github.com/shivajivarma/codebase-java/blob/master/src/main/java/com/shivajivarma/codebase/display_patterns/DisplayPattern.java))
-	* [Leap Year](http://shivajivarma.com/code-base/2017/07/08/leap-year/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/leap-year/leap-year.c), [JavaScript](https://github.com/shivajivarma/codebase-js/blob/master/leap-year/leap-year.js))
 	* [Permutations](http://shivajivarma.com/code-base/2017/10/22/permutations/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/permutations/permutations.c))
 	* Random Number ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/random-number/random-number.c))
 	* [Subsets](https://shivajivarma.com/code-base/2018/05/10/subsets/) ([C](https://github.com/shivajivarma/codebase-c/blob/master/src/subsets/subsets.c))
