@@ -1,7 +1,7 @@
 Code Base
 ===========
 
-'__[Code Base](http://shivajivarma.com/code-base)__' is a repository contains examples of many popular algorithms and data structures. 
+'__[Code Base](http://shivajivarma.com/project/code-base/)__' is a repository contains examples of many popular algorithms and data structures. 
 
 ## Data Structures
 
