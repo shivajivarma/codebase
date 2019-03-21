@@ -38,8 +38,9 @@ Algorithm is an unambiguous specification of how to solve a class of problems. A
 	* [Reversing A String](http://shivajivarma.com/project/code-base/2018/05/27/reversing-a-string)
 * **Networking**
 	* [Sockets (Server - Client Communication)](http://shivajivarma.com/project/code-base/2017/10/23/sockets-server-client-communication/)
-
-------
+	
+	
+	
 * **Others**
 	* Display Patterns
 		* [Right Angled Triangle](http://shivajivarma.com/project/code-base/2017/10/23/display-patterns)
