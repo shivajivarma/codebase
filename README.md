@@ -18,25 +18,29 @@ Algorithm is an unambiguous specification of how to solve a class of problems. A
 ### Algorithms by Topic
 
 * **Date**
-    * [Leap Year](http://shivajivarma.com/project/code-base/2017/07/08/leap-year/)
+	* [Leap Year](http://shivajivarma.com/project/code-base/2017/07/08/leap-year/)
 * **Math**
-    * [Armstrong Number](http://shivajivarma.com/project/code-base/2014/12/28/armstrong-number/)
-    * [Greatest Common Divisor of two numbers](http://shivajivarma.com/project/code-base/2015/01/03/greatest-common-divisor/)
+	* [Armstrong Number](http://shivajivarma.com/project/code-base/2014/12/28/armstrong-number/)
+	* [Greatest Common Divisor of two numbers](http://shivajivarma.com/project/code-base/2015/01/03/greatest-common-divisor/)
 * **Search**
-    * [Binary Search](http://shivajivarma.com/project/code-base/2015/01/05/binary-search/)
-    * [Linear Search](http://shivajivarma.com/project/code-base/2015/01/05/linear-search/)
+	* [Binary Search](http://shivajivarma.com/project/code-base/2015/01/05/binary-search/)
+	* [Linear Search](http://shivajivarma.com/project/code-base/2015/01/05/linear-search/)
 * **Sorting**
-    * [Bubble Sort](http://shivajivarma.com/project/code-base/2014/12/28/bubble-sort/)
-    * [Insertion Sort](http://shivajivarma.com/project/code-base/2014/12/28/insertion-sort/)
-    * [Merge Sort](http://shivajivarma.com/project/code-base/2015/01/02/merge-sort/)
-    * [Quick Sort](http://shivajivarma.com/project/code-base/2015/01/02/quick-sort/)
-    * [Selection Sort](http://shivajivarma.com/project/code-base/2015/01/02/selection-sort/)
+	* [Bubble Sort](http://shivajivarma.com/project/code-base/2014/12/28/bubble-sort/)
+	* [Insertion Sort](http://shivajivarma.com/project/code-base/2014/12/28/insertion-sort/)
+	* [Merge Sort](http://shivajivarma.com/project/code-base/2015/01/02/merge-sort/)
+	* [Quick Sort](http://shivajivarma.com/project/code-base/2015/01/02/quick-sort/)
+	* [Selection Sort](http://shivajivarma.com/project/code-base/2015/01/02/selection-sort/)
 * **String**
 	* [Anagram](http://shivajivarma.com/project/code-base/2014/12/28/anagram/)
-    * [Longest Palindrome Sub String Length](http://shivajivarma.com/project/code-base/2014/12/30/longest-palindrome-substring-length/)
-    * [Palindrome String](http://shivajivarma.com/project/code-base/2018/05/27/palindrome)
-    * [Reversing A String](http://shivajivarma.com/project/code-base/2018/05/27/reversing-a-string)
-* **Uncategorized**
+	* [Longest Palindrome Sub String Length](http://shivajivarma.com/project/code-base/2014/12/30/longest-palindrome-substring-length/)
+	* [Palindrome String](http://shivajivarma.com/project/code-base/2018/05/27/palindrome)
+	* [Reversing A String](http://shivajivarma.com/project/code-base/2018/05/27/reversing-a-string)
+* **Networking**
+	* [Sockets (Server - Client Communication)](http://shivajivarma.com/project/code-base/2017/10/23/sockets-server-client-communication/)
+
+------
+* **Others**
 	* Display Patterns
 		* [Right Angled Triangle](http://shivajivarma.com/project/code-base/2017/10/23/display-patterns)
 		* [Print Z](http://shivajivarma.com/project/code-base/2017/10/23/display-patterns)
@@ -45,8 +49,6 @@ Algorithm is an unambiguous specification of how to solve a class of problems. A
 	* [Subsets](https://shivajivarma.com/project/code-base/2018/05/10/subsets/)
 	* [Towers Of Hanoi](http://shivajivarma.com/project/code-base/2017/10/23/towers-of-hanoi/)
 	* Spiral Matrix ([Java](https://github.com/shivajivarma/codebase-java/blob/master/src/main/java/com/shivajivarma/codebase/spiral_matrix/SpiralMatrix.java))
-	* Networking
-		* [Sockets (Server - Client Communication)](http://shivajivarma.com/project/code-base/2017/10/23/sockets-server-client-communication/)
 
 and more...
 
